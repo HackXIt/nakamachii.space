@@ -17,6 +17,7 @@ I'm not a beginner programmer, but I figured since this is open-source and other
 - **Vite** as the build tool
 - **Solidity** for smart contracts
 - **GitHub Actions** for CI/CD
+- **Bun** as a package manager
 
 ## Reasoning
 
@@ -25,6 +26,9 @@ I'm not a beginner programmer, but I figured since this is open-source and other
 - I will use **Vite** as the build tool. It comes naturally with VueJS.
 - I must code my smart assemblies / DApps in **solidity**, since that is what Eve Frontier requires.
 - I will use **GitHub Actions** for CI/CD. I am familiar with it and it is also the tool to use for this hosting plattform.
+- I will use **Bun** as a package manager. I just personally like **zig** and they use it for their package manager. No real reason other than that. 
+    
+    _I could quote some reasons like speed and stuff, but I don't really care, I come from a slower-paced programming background with compiled languages and I don't think I will notice the difference._
 - I don't know yet what I will use for server backend, nor do I know if I will need it. I will cross that bridge when I get there.
     - Java, Python and C# are language that I work with professionally, but for a web-development backend for a personal project I might choose something else. Simply for learning reasons and also widening my language experience.
 - I don't know yet what I will use for database, nor do I know if I will need it. I will cross that bridge when I get there.
